@@ -19,11 +19,22 @@
 
 # 💿 Installation
 
-Add the package installation guide.
+To use this template, clone the repository and install the dependencies:
+
+```
+git clone https://github.com/yuges-code/php-package-template.git
+cd php-package-template
+
+composer install
+```
 
 # 🧪 Running Tests
 
-Add a test guide
+To run tests, run the following command:
+
+```
+composer test
+```
 
 # ⚖️ License
 
