@@ -3,11 +3,11 @@
 </div>
 
 <div align="center">
-    <h1>Package template</h1>
+    <h1>PHP package template</h1>
 </div>
 
 <div align="center">
-    <h3>🚀 Starter template for all Yuges packages</h3>
+    <h3>🚀 Starter template for all Yuges PHP packages</h3>
 </div>
 
 <div align="center">
